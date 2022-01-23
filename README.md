@@ -1,6 +1,6 @@
 # Sistema-de-Gestao-Academica-em-JAVA
 
-Desenvolvido por Iara Rodrigues Grigorio Oliveira Silva, pelo Windows.
+<p>Desenvolvido por Iara Rodrigues Grigorio Oliveira Silva, pelo Windows.</p>
 
 <p>O Sistema de Gestão Acadêmica busca oferecer aos docentes e discentes o gerenciamento da produção acadêmica de projetos conduzidos pelos seus laboratórios de pesquisa </p>
 <p><b>Foram implementadas as seguintes classes:</b></p>
